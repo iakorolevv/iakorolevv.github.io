@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wowchemy Research Group</title>
+    <title>Электрический пробой</title>
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wowchemy Research Group</description>
+    <description>Электрический пробой</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_7613a4a452ac7087.png</url>
-      <title>Wowchemy Research Group</title>
+      <title>Электрический пробой</title>
       <link>https://example.com/</link>
     </image>
     
@@ -44,7 +44,7 @@
     </item>
     
     <item>
-      <title>Tour</title>
+      <title>Ознакомление с проектом.</title>
       <link>https://example.com/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/tour/</guid>
