@@ -85,6 +85,22 @@
     </item>
     
     <item>
+      <title>Проект. Четвертый этап.</title>
+      <link>https://example.com/publication/conference-paper_4/</link>
+      <pubDate>Sat, 21 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper_4/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Чтобы просмотреть отчет и презентации о выполненной работе, перейдите по ссылкам ниже. Спасибо!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Здесь вы можете просмотреть отчет о проделанной работе. &lt;a href=&#34;report.pdf&#34;&gt;Четвертый этап. Отчет&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Здесь вы можете просмотреть презентацию о проделанной работе. &lt;a href=&#34;presentation.pdf&#34;&gt;Четвертый этап. Презентация.&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Здесь вы можете просмотреть GITHUB проекта. &lt;a href=&#34;https://github.com/iragoum/study_2024-2025_mathmod/tree/master/project-group&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GITHUB&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://example.com/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
